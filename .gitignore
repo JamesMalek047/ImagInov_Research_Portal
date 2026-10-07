@@ -1,0 +1,5 @@
+# The Vue project lives in the nested Imaginov directory.
+/*
+!/.gitignore
+!/Imaginov/
+!/Imaginov/**
